@@ -1,7 +1,7 @@
 # UnitXP Service Pack 3
 
 ## NOTICE - original addon by AllFoxxy is no longer on GitHub - this is my copy for archive - I am not the developer.
-### *To make this addon work - You will need to COPY ALL FILES to your ~/Turtle Wow/Interface/Addons/UnitXP_SP3 folder and then MOVE the *UnitXP_SP3.dll* file to your ~Turtle WoW/ main folder (Where the Launcher and EXE Files are) -be sure to ADD UnitXP_SP# to your dlls.txt if not already added by SuperWoWHook or VanillaFixes*
+### *To make this addon work - You will need to COPY ALL FILES to your ~/Turtle Wow/Interface/Addons/UnitXP_SP3 folder and then MOVE the *UnitXP_SP3.dll* file to your ~Turtle WoW/ main folder (Where the Launcher and EXE Files are) -be sure to ADD UnitXP_SP3 to your dlls.txt if not already added by SuperWoWHook or VanillaFixes*
 
 An attempt to make Vanilla 1.12 modern...
 
@@ -49,6 +49,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
 
 
 
