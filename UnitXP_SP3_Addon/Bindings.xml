@@ -4,6 +4,10 @@
 		UnitXP("target", "nearestEnemy");
 	</Binding>
 
+	<Binding name="UNITXPSP3TARGETMOSTHP" header="UNITXPSP3TARGETING">
+		UnitXP("target", "mostHP");
+	</Binding>
+
 	<Binding name="UNITXPSP3WORLDBOSS">
 		UnitXP("target", "worldBoss");
 	</Binding>
@@ -30,6 +34,38 @@
 
 	<Binding name="UNITXPSP3PREVIOUSMELEE">
 		UnitXP("target", "previousEnemyConsideringDistance");
+	</Binding>
+
+	<Binding name="UNITXPSP3RAISECAMERA" header="UNITXPSP3UTILITIES">
+		UnitXP_SP3_raiseCameraHeight();
+	</Binding>
+
+	<Binding name="UNITXPSP3LOWERCAMERA">
+		UnitXP_SP3_lowerCameraHeight();
+	</Binding>
+
+	<Binding name="UNITXPSP3LEFTCAMERA">
+		UnitXP_SP3_rightPlayer();
+	</Binding>
+
+	<Binding name="UNITXPSP3RIGHTCAMERA">
+		UnitXP_SP3_leftPlayer();
+	</Binding>
+
+	<Binding name="UNITXPSP3RESETCAMERA">
+		UnitXP_SP3_resetCamera();
+	</Binding>
+
+	<Binding name="UNITXPSP3TOGGLEMODERNNAMEPLATEDISTANCE">
+		UnitXP_SP3_toggleModernNameplateDistance();
+	</Binding>
+
+	<Binding name="UNITXPSP3TOGGLEPRIORITIZETARGETNAMEPLATE">
+		UnitXP_SP3_togglePrioritizeTargetNameplate();
+	</Binding>
+
+	<Binding name="UNITXPSP3TOGGLEPRIORITIZEMARKEDNAMEPLATE">
+		UnitXP_SP3_togglePrioritizeMarkedNameplate();
 	</Binding>
 
 </Bindings>
